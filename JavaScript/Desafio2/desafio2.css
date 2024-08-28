@@ -1,0 +1,22 @@
+.gerar-chunks{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.gerar-chunks label{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.gerar-chunks input{
+    height: 25px;
+    width: 50vh;
+}
+
+#lista-chunks li{
+    list-style: none;
+}

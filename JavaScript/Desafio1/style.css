@@ -1,0 +1,12 @@
+.notas{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.notas li{
+    list-style: none;
+    border: 1px solid #000;
+    padding: 10px;
+    border-radius: 50%;
+}
